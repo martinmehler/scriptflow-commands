@@ -1,0 +1,28 @@
+
+[
+  {
+    "category": "Microsoft Graph",
+    "command": "Connect-MgGraph",
+    "description": "Anslut till Microsoft Graph för att hantera resurser och användare."
+  },
+  {
+    "category": "Microsoft Intune",
+    "command": "Get-IntuneManagedDevice",
+    "description": "Hämta en lista över enheter som hanteras via Microsoft Intune."
+  },
+  {
+    "category": "Exchange Online",
+    "command": "Get-Mailbox",
+    "description": "Hämta information om en postlåda i Exchange Online."
+  },
+  {
+    "category": "Exchange Online",
+    "command": "Set-CalendarPermissions-Users",
+    "description": "Sätt kalenderbehörigheter för användare i Exchange."
+  },
+  {
+    "category": "Exchange Online",
+    "command": "Set-CalendarPermissions-Rooms",
+    "description": "Sätt kalenderbehörigheter för konferensrum i Exchange."
+  }
+]
